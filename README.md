@@ -14,6 +14,6 @@ And the product with longer life time are sold very rarely
 
 ![](https://github.com/bhanu479/Sale-analysis/blob/testbulid/SalesAnalysis/product.png)
 
-
+***If any dought reffer to this video(https://www.youtube.com/watch?v=eMOA1pPVUc4&list=WL&index=19&t=3123s)***
 
 
