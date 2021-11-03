@@ -16,6 +16,6 @@ This is a graph tell us quantitiy of a product a sold wrt its price. This tell u
 
 ![](https://github.com/bhanu479/Sale-analysis/blob/main/SalesAnalysis/product.png)
 
-***If any dought reffer to this video(https://www.youtube.com/watch?v=eMOA1pPVUc4&list=WL&index=19&t=3123s)***
+***If you have any doubt, pls reffer to this video(https://www.youtube.com/watch?v=eMOA1pPVUc4&list=WL&index=19&t=3123s)***
 
 
